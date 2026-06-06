@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://wewede-solutions.de/wp-content/uploads/Logo_WeWeDe-Solutions-scaled.png" alt="WeWeDe Solutions" height="100">
+  <img src="https://wewede-solutions.de/wp-content/uploads/Logo-white-scaled.png" alt="WeWeDe Solutions" height="100">
 </div>
 
 # WeWeDe Solutions
